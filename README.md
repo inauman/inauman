@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @inauman
 - 👀 I’m interested in Bitcoin & Lightning Network.
-- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on Bitcoin related development projects 
 - 📫 How to reach me: md.nauman@gmail.com
 
